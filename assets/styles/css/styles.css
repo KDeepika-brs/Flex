@@ -59,11 +59,13 @@ h3 {
 }
 
 h2 {
+    margin-top: 5px;
     text-transform: uppercase;
     font-weight: 700
 }
 
 h2 i {
+    margin-top:5px;
     vertical-align: bottom;
     margin-left: 5px
 }
